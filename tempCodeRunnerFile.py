@@ -1,0 +1,2 @@
+
+class Todo(db.Model):
